@@ -1,1 +1,1 @@
-# python_code是以前学python写的一些代码记录。
+# 人生苦短，多用python
